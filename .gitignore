@@ -1,0 +1,10 @@
+# Add more...
+*.gch
+phase1
+phase1.exe
+vgcore.*
+dns_query
+*.dSYM
+*.o
+dns_svr.log
+dns_svr
